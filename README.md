@@ -2,11 +2,6 @@
 #### A passionate frontend developer from Bangladesh
 ![A passionate frontend developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-♥️  I enjoy programming and sharing knowledge
-💻  Most used line of code console.log("hello world")
-🤔  I’m looking for people who can help me with Outstanding Video ideas and executions.
-📧  How to reach me: sayhitorainmaker@gmail.com.
-⚡  Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
