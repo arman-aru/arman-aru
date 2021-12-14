@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Arman
+# Hi there 👋, My name is Arman
 #### A passionate frontend developer from Bangladesh
 ![A passionate frontend developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
