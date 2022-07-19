@@ -11,7 +11,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 💬 Ask me about Wordpress 
 - 📫 How to reach me: abusalekarman@gmail.com 
 - 😄 Pronouns: ARU 
-- ⚡ Fun fact: I'm Lazy 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='100' width='100%'>](https://github.com/arman-aru)  
