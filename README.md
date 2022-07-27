@@ -18,7 +18,7 @@
 ###
 ###
 
-<h2 align="left">My Skill</h2>
+<h2 align="center">My Skill</h2>
 
 ###
 <div align="left">
@@ -43,7 +43,7 @@
 ###
 ###
 
-<h2 align="left">Follow me on Social Media</h2>
+<h2 align="center">Follow me on Social Media</h2>
 
 ###
 <div align="left">
