@@ -81,7 +81,7 @@
 
 ###
 
-<p align="center">✨ I'm A Student, Developer, Gamer, and Learner!!!, A 20-Year-Old Young Developer and a Student In Feni Govt. Computer Institute.<br>🌈 I Like Coding, Cricket, Long Tour & Driving, Music, and Playing Games.<br>📚 I'm currently learning MERN<br>🎯 In the Future, I’m Looking to get a Job at Google.<br>😉 So, Check Out My Repositories and Projects. Hope You Enjoy it!!!</p>
+<p align="center">✨ I'm A Student, Developer, Gamer, and Learner!!!, A 20-Year-Old Young Developer and a Student In Feni Govt. Computer Institute.<br>🌈 I Like Coding, Cricket, Long Tour & Driving, Music, and Playing Games.<br>📚 I'm currently learning MERN<br>🎯 In the Future, I’m Looking to get a Job at Google.<br>📧  How to reach me: abusalekarman@gmail.com.<br>😉 So, Check Out My Repositories and Projects. Hope You Enjoy it!!!</p>
 
 ###
   
