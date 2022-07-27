@@ -1,3 +1,6 @@
+![A passionate frontend developer from Bangladesh](https://github.com/learnwithsumit/learnwithsumit/raw/main/assets/github-banner.png)
+
+
 <h1 align="center">Hi, there my gorgeous friend</h1>
 
 ###
