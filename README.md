@@ -1,6 +1,6 @@
-# Hi there my gorgeous friend hi
+![A passionate frontend developer from Bangladesh](https://github.com/learnwithsumit/learnwithsumit/raw/main/assets/github-banner.png)
+# Hi there my gorgeous friend
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
