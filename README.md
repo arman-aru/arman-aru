@@ -12,10 +12,14 @@
 
 ###
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="220" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+###
 
+<h2 align="left">My Skill</h2>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -36,7 +40,11 @@
 </div>
 
 ###
+###
 
+<h2 align="left">Follow me on Social Media</h2>
+
+###
 <div align="left">
   <a href="https://www.facebook.com/abu.salek.arman.aru" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -52,16 +60,18 @@
   </a>
   <a href="+8801639737283" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="+8801639737283" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/arman-aru/arman-aru/blob/output/snake.svg" alt="Snake animation" />
+<h2 align="center">My Profile Views</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/arman/count.svg?"  />
+</div>
 
 ###
