@@ -40,17 +40,26 @@ I am a **Software Engineering student** at **Vilnius College (VIKO)** in Lithuan
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman-aru&show_icons=true&theme=dracula&rank_icon=github&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-aru&layout=compact&theme=dracula&hide_border=false" height="170" alt="languages graph" />
-</div>
-
----
-
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abu-salek-arman-a9985a1b7/" target="_blank">
-    <img src="
+  <a href="https://www.linkedin.com/in/abu-salek-arman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:armansalekofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/arman.salek.88/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/arman._.salek/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+
+---
+
+<p align="center">
+  <b> Code locally. Impact globally 🌐 </b>
+</p>
