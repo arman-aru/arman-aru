@@ -6,13 +6,11 @@
 
 ### 🎓 About Me
 
-I am a **Software Engineering student** at **Vilnius College (VIKO)** in Lithuania 🇱🇹, originally from Bangladesh 🇧🇩. I balance my academic studies in Computer Science with a high-level career in freelance web development.
+I am a **Software Engineering Student** based in **Vilnius, Lithuania** 🇱🇹, originally from Bangladesh 🇧🇩. I balance my academic path in Computer Science with a high-level career in freelance web development.
 
-- 🔭 **Currently working on:** A specialized E-commerce project for the DRC market.
-- 📚 **Studying:** Data Structures & Algorithms (C++), Discrete Mathematics, and Database Design.
 - ⚡ **Professional Status:** Top Rated Freelancer on Upwork & Level 2 Seller on Fiverr.
-- 🎯 **Future Goals:** Senior AI Agent Developer and working with Google.
-- 🏎️ **Passions:** BMW M-series enthusiast, motorcycle sportsbikes, and exploring Vilnius.
+- 🎯 **Future Goals:** Aspiring to be a 'best-of-the-best' engineer. I am fueled by a deep-rooted motivation to provide a legacy of excellence for my parents, ensuring their pride is the ultimate reward of my career.
+- 🏎️ **Passions:** Sportsbikes & Sportscar
 
 ---
 
